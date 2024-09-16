@@ -8,6 +8,7 @@ public class DataTypes {
         // below is a "foreach" loop which iterates through numbers
         for (int x : numbers) {
             s += x;
+
         }
         return s;
     }
